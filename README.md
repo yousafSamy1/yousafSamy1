@@ -136,6 +136,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/snake.svg" alt="Snake animation" />
 
 ###
