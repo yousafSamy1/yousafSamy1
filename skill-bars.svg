@@ -1,0 +1,56 @@
+<svg viewBox="0 0 640 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #ffffff; }
+    .tag-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #E6EDF3; }
+  </style>
+
+  <rect x="1" y="1" width="638" height="218" rx="16" fill="url(#cardBg)" stroke="#00C4FF" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <text x="30" y="42" class="card-title">🛠️ Core Skills</text>
+  <line x1="30" y1="55" x2="610" y2="55" stroke="#233240" stroke-width="1"/>
+
+  <!-- Row 1 -->
+  <rect x="30" y="72" width="82" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="71" y="93" class="tag-text" text-anchor="middle">Laravel</text>
+
+  <rect x="122" y="72" width="66" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="155" y="93" class="tag-text" text-anchor="middle">PHP</text>
+
+  <rect x="198" y="72" width="82" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="239" y="93" class="tag-text" text-anchor="middle">MySQL</text>
+
+  <rect x="290" y="72" width="110" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="345" y="93" class="tag-text" text-anchor="middle">SQL Server</text>
+
+  <rect x="410" y="72" width="106" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="463" y="93" class="tag-text" text-anchor="middle">REST APIs</text>
+
+  <rect x="526" y="72" width="84" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="568" y="93" class="tag-text" text-anchor="middle">Docker</text>
+
+  <!-- Row 2 -->
+  <rect x="30" y="116" width="98" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="79" y="137" class="tag-text" text-anchor="middle">JavaScript</text>
+
+  <rect x="138" y="116" width="66" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="171" y="137" class="tag-text" text-anchor="middle">Git</text>
+
+  <rect x="214" y="116" width="82" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="255" y="137" class="tag-text" text-anchor="middle">Python</text>
+
+  <rect x="306" y="116" width="120" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="366" y="137" class="tag-text" text-anchor="middle">System Design</text>
+
+  <rect x="436" y="116" width="90" height="32" rx="16" fill="#132030" stroke="#00C4FF" stroke-opacity="0.4"/>
+  <text x="481" y="137" class="tag-text" text-anchor="middle">Bootstrap</text>
+
+  <text x="30" y="185" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5b6b7a">Core stack across BiteHub, Hotel Booking System, and other projects.</text>
+</svg>
+
