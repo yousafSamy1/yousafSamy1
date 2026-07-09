@@ -90,19 +90,7 @@ yousef:
 ## 📈 Proficiency
 
 <div align="center">
-
-<img src="https://progress-bar.dev/90/?title=Laravel&width=300&color=00C4FF"/>
-<br/>
-<img src="https://progress-bar.dev/85/?title=PHP&width=300&color=00C4FF"/>
-<br/>
-<img src="https://progress-bar.dev/80/?title=MySQL&width=300&color=00C4FF"/>
-<br/>
-<img src="https://progress-bar.dev/65/?title=SQL+Server&width=300&color=00C4FF"/>
-<br/>
-<img src="https://progress-bar.dev/70/?title=REST+APIs&width=300&color=00C4FF"/>
-<br/>
-<img src="https://progress-bar.dev/55/?title=Docker&width=300&color=00C4FF"/>
-
+<img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/main/skill-bars.svg" width="70%"/>
 </div>
 
 <br/>
@@ -147,8 +135,8 @@ Laravel Hotel Reservation Platform
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yousafSamy1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafSamy1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/stats.svg"/>
+<img height="170" src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/top-langs.svg"/>
 </div>
 
 <div align="center">
