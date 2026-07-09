@@ -1,0 +1,41 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: dist/trophy.svg
+          theme: onedark
+          column: 4
+          row: 2
+          no-frame: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          destination_dir: .
+          keep_files: true
+          commit_message: "Update trophy [skip ci]"
