@@ -87,7 +87,7 @@ yousef:
 
 <br/>
 
-## 📈 Proficiency
+## 🛠️ Core Skills
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/main/skill-bars.svg" width="70%"/>
