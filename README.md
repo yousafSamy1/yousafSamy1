@@ -44,8 +44,12 @@ yousef:
     - Microservices
     - System Design
     - CI/CD
-  fun_fact: "I turn coffee ☕ into scalable web apps 🚀"
+  philosophy: "Convention over configuration, clarity over cleverness."
 ```
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=650&height=40&lines=%24+composer+require+laravel%2Fframework;%24+php+artisan+make%3Amodel+Order+-mfc;Route%3A%3Aapi()-%3Emiddleware('auth%3Asanctum');%24+git+commit+-m+%22feat%3A+ship+it%22+%F0%9F%9A%80" />
+</div>
 
 ---
 
@@ -105,7 +109,7 @@ Laravel Hotel Reservation Platform
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yousafSamy1&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yousafSamy1&theme=onedark&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=2&column=4"/>
 </div>
 
 ---
