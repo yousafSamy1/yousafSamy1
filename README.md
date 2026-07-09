@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C4FF&height=220&section=header&text=Yousef%20Samy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20PHP%20Laravel%20Developer%20%7C%20MIS%20Graduate&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Backend+PHP+Laravel+Developer;REST+API+Developer;Laravel+%7C+PHP+%7C+MySQL;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Backend+PHP+Laravel+Developer;REST+API+Developer;Laravel+%7C+PHP+%7C+MySQL+%7C+SQL+Server;Always+Learning+New+Technologies" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=yousafSamy1&label=Profile+Views&color=00C4FF&style=for-the-badge"/>
@@ -27,7 +27,7 @@
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -37,7 +37,7 @@ yousef:
   education: "MIS Graduate @ Egyptian Russian University"
   focus:
     - Laravel & REST API Development
-    - Database Design & System Architecture
+    - Database Design (MySQL & SQL Server) & System Architecture
     - Clean Code & Problem Solving
   currently_learning:
     - Docker
@@ -52,10 +52,10 @@ yousef:
 </div>
 
 <div align="center">
-<img src="./vibe-coding.svg" width="70%"/>
+<img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/main/vibe-coding.svg" width="65%"/>
 </div>
 
----
+<br/>
 
 ## ⚙️ Tech Stack
 
@@ -65,13 +65,19 @@ yousef:
 <br/>
 <img src="https://skillicons.dev/icons?i=php,python,js,html,css,cpp,cs&theme=dark"/>
 
+<br/>
+
 **Frameworks & Libraries**
 <br/>
 <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,react,fastapi&theme=dark"/>
 
-**Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mssql&theme=dark"/>
+
+<br/>
 
 **Tools & Platforms**
 <br/>
@@ -79,7 +85,27 @@ yousef:
 
 </div>
 
----
+<br/>
+
+## 📈 Proficiency
+
+<div align="center">
+
+<img src="https://progress-bar.dev/90/?title=Laravel&width=300&color=00C4FF"/>
+<br/>
+<img src="https://progress-bar.dev/85/?title=PHP&width=300&color=00C4FF"/>
+<br/>
+<img src="https://progress-bar.dev/80/?title=MySQL&width=300&color=00C4FF"/>
+<br/>
+<img src="https://progress-bar.dev/65/?title=SQL+Server&width=300&color=00C4FF"/>
+<br/>
+<img src="https://progress-bar.dev/70/?title=REST+APIs&width=300&color=00C4FF"/>
+<br/>
+<img src="https://progress-bar.dev/55/?title=Docker&width=300&color=00C4FF"/>
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -87,7 +113,7 @@ yousef:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍔 BiteHub
 Cloud Kitchen Marketplace & Catering Platform
@@ -95,12 +121,12 @@ Cloud Kitchen Marketplace & Catering Platform
 `Laravel` `MySQL` `REST API` `Paymob` `Google Maps API`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏨 Hotel Booking System
 Laravel Hotel Reservation Platform
 
-`Laravel` `Stripe` `MySQL`
+`Laravel` `Stripe` `MySQL` `SQL Server`
 
 </td>
 </tr>
@@ -108,15 +134,15 @@ Laravel Hotel Reservation Platform
 
 </div>
 
----
+<br/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=yousafSamy1&theme=onedark&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=2&column=4"/>
+<img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/trophy.svg"/>
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -133,15 +159,15 @@ Laravel Hotel Reservation Platform
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousafSamy1&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
----
+<br/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/github-snake.svg"/>
 </div>
 
----
+<br/>
 
 ## 👾 Pacman Contribution Graph
 
@@ -149,7 +175,7 @@ Laravel Hotel Reservation Platform
 <img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/pacman-contribution-graph.svg"/>
 </div>
 
----
+<br/>
 
 ## ✍️ Random Dev Quote
 
@@ -157,7 +183,7 @@ Laravel Hotel Reservation Platform
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
----
+<br/>
 
 <div align="center">
 
