@@ -27,7 +27,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresayac/andresayac/main/img/marca_agua.svg" width="100%" height="2px"/>
+---
 
 ## 👨‍💻 About Me
 
@@ -47,7 +47,7 @@ yousef:
   fun_fact: "I turn coffee ☕ into scalable web apps 🚀"
 ```
 
-<img src="https://raw.githubusercontent.com/andresayac/andresayac/main/img/marca_agua.svg" width="100%" height="2px"/>
+---
 
 ## ⚙️ Tech Stack
 
@@ -71,7 +71,7 @@ yousef:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresayac/andresayac/main/img/marca_agua.svg" width="100%" height="2px"/>
+---
 
 ## 🚀 Featured Projects
 
@@ -79,7 +79,7 @@ yousef:
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### 🍔 BiteHub
 Cloud Kitchen Marketplace & Catering Platform
@@ -87,15 +87,7 @@ Cloud Kitchen Marketplace & Catering Platform
 `Laravel` `MySQL` `REST API` `Paymob` `Google Maps API`
 
 </td>
-<td width="33%">
-
-### 🚗 IVHEMMS
-AI-Powered Vehicle Health & Maintenance System
-
-`Django` `Flask` `TensorFlow` `Gemini AI`
-
-</td>
-<td width="33%">
+<td width="50%">
 
 ### 🏨 Hotel Booking System
 Laravel Hotel Reservation Platform
@@ -108,7 +100,7 @@ Laravel Hotel Reservation Platform
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresayac/andresayac/main/img/marca_agua.svg" width="100%" height="2px"/>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -116,7 +108,7 @@ Laravel Hotel Reservation Platform
 <img src="https://github-profile-trophy.vercel.app/?username=yousafSamy1&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andresayac/andresayac/main/img/marca_agua.svg" width="100%" height="2px"/>
+---
 
 ## 📊 GitHub Stats
 
@@ -133,7 +125,7 @@ Laravel Hotel Reservation Platform
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousafSamy1&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andresayac/andresayac/main/img/marca_agua.svg" width="100%" height="2px"/>
+---
 
 ## 🐍 Contribution Snake
 
@@ -141,7 +133,15 @@ Laravel Hotel Reservation Platform
 <img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/github-contribution-grid-snake.svg"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andresayac/andresayac/main/img/marca_agua.svg" width="100%" height="2px"/>
+---
+
+## 👾 Pacman Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/yousafSamy1/yousafSamy1/output/pacman-contribution-graph.svg"/>
+</div>
+
+---
 
 ## ✍️ Random Dev Quote
 
@@ -149,7 +149,7 @@ Laravel Hotel Reservation Platform
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andresayac/andresayac/main/img/marca_agua.svg" width="100%" height="2px"/>
+---
 
 <div align="center">
 
