@@ -19,6 +19,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Create output directory
+        run: mkdir -p dist
+
       - name: Generate Trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
@@ -30,12 +33,20 @@ jobs:
           no-frame: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Verify trophy file was created
+        run: |
+          if [ ! -s dist/trophy.svg ]; then
+            echo "::error::trophy.svg was not generated - check the previous step's log"
+            exit 1
+          fi
+          echo "trophy.svg generated successfully:"
+          ls -la dist/
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          destination_dir: .
           keep_files: true
           commit_message: "Update trophy [skip ci]"
