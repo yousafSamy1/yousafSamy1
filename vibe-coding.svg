@@ -1,0 +1,91 @@
+<svg viewBox="0 0 700 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="screenGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00C4FF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00C4FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="380" rx="18" fill="url(#bg)"/>
+
+  <!-- floating code tags -->
+  <g font-family="Fira Code, monospace" font-size="13" fill="#00C4FF" opacity="0.5">
+    <text x="40" y="50">&lt;?php</text>
+    <text x="580" y="70">Route::get()</text>
+    <text x="30" y="330">$fillable</text>
+    <text x="560" y="320">artisan</text>
+    <text x="600" y="200">::create()</text>
+    <text x="20" y="200">Model</text>
+  </g>
+
+  <!-- desk -->
+  <rect x="90" y="290" width="520" height="14" rx="4" fill="#1F2937"/>
+  <rect x="120" y="304" width="16" height="46" fill="#1a222c"/>
+  <rect x="560" y="304" width="16" height="46" fill="#1a222c"/>
+
+  <!-- laptop base -->
+  <rect x="230" y="272" width="240" height="16" rx="4" fill="#233240"/>
+
+  <!-- laptop screen -->
+  <rect x="245" y="150" width="210" height="130" rx="8" fill="#111826" stroke="#00C4FF" stroke-width="2"/>
+  <rect x="245" y="115" width="210" height="140" rx="10" fill="url(#screenGlow)"/>
+  <rect x="253" y="158" width="194" height="114" rx="4" fill="#0A0F16"/>
+
+  <!-- code lines on screen, typing style -->
+  <g font-family="Fira Code, monospace" font-size="9">
+    <text x="260" y="172" fill="#39FF14">function handle() {</text>
+    <text x="268" y="184" fill="#00C4FF">Order::create([</text>
+    <text x="276" y="196" fill="#FFD166">'status' =&gt; 'paid',</text>
+    <text x="276" y="208" fill="#FFD166">'total'  =&gt; $total,</text>
+    <text x="268" y="220" fill="#00C4FF">]);</text>
+    <text x="260" y="232" fill="#39FF14">}</text>
+    <text x="260" y="248" fill="#7dd3fc" opacity="0.8">// building BiteHub 🍔</text>
+  </g>
+
+  <!-- cursor blink block -->
+  <rect x="360" y="240" width="6" height="10">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- person: simple flat vibe-coder silhouette -->
+  <g>
+    <!-- chair -->
+    <rect x="330" y="200" width="80" height="14" rx="6" fill="#1F2937"/>
+    <!-- body -->
+    <path d="M330 300 Q330 240 370 235 Q410 240 410 300 Z" fill="#16324A"/>
+    <!-- head -->
+    <circle cx="370" cy="205" r="24" fill="#E8B48A"/>
+    <!-- hair -->
+    <path d="M346 200 Q346 178 370 176 Q394 178 394 200 Q394 186 370 186 Q346 186 346 200 Z" fill="#2B2118"/>
+    <!-- headphones (vibe coding essential) -->
+    <path d="M344 200 Q344 168 370 168 Q396 168 396 200" fill="none" stroke="#00C4FF" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="344" cy="204" r="8" fill="#0D1117" stroke="#00C4FF" stroke-width="3"/>
+    <circle cx="396" cy="204" r="8" fill="#0D1117" stroke="#00C4FF" stroke-width="3"/>
+    <!-- arms typing -->
+    <path d="M340 250 Q320 260 300 274" stroke="#16324A" stroke-width="14" stroke-linecap="round" fill="none"/>
+    <path d="M400 250 Q420 260 440 274" stroke="#16324A" stroke-width="14" stroke-linecap="round" fill="none"/>
+    <circle cx="300" cy="274" r="7" fill="#E8B48A"/>
+    <circle cx="440" cy="274" r="7" fill="#E8B48A"/>
+  </g>
+
+  <!-- coffee cup -->
+  <g>
+    <rect x="480" y="264" width="26" height="22" rx="3" fill="#F2F2F2"/>
+    <path d="M506 268 q10 0 10 9 q0 9 -10 9" fill="none" stroke="#F2F2F2" stroke-width="3"/>
+    <path d="M486 250 q2 -6 0 -10" stroke="#9CA3AF" stroke-width="2" fill="none" opacity="0.7">
+      <animate attributeName="d" values="M486 250 q2 -6 0 -10; M486 250 q-2 -6 0 -12; M486 250 q2 -6 0 -10" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M496 250 q2 -6 0 -10" stroke="#9CA3AF" stroke-width="2" fill="none" opacity="0.7">
+      <animate attributeName="d" values="M496 250 q-2 -6 0 -10; M496 250 q2 -6 0 -12; M496 250 q-2 -6 0 -10" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- bottom caption -->
+  <text x="350" y="365" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="14" fill="#00C4FF" font-weight="600">
+    building things, one commit at a time
+  </text>
+</svg>
